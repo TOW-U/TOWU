@@ -6,6 +6,9 @@
     "minimum": "13",
     "verified": "13"
   },
+ "url": "https://github.com/TOW-U/TOWU",
+  "manifest": "https://raw.githubusercontent.com/TOW-U/TOWU/main/module.json",
+  "download": "https://github.com/TOW-U/TOWU/archive/refs/heads/main.zip",
   "packs": [
     {
       "name": "towu-actors",
