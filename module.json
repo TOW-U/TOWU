@@ -1,0 +1,88 @@
+{
+  "id": "tow-unofficial-compendia",
+  "title": "TOW unofficial compendia",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "packs": [
+    {
+      "name": "towu-actors",
+      "label": "TOWU Actors",
+      "path": "packs/towu-actors",
+      "type": "Actor",
+      "system": "whtow",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "towu-adventures",
+      "label": "TOWU Adventures",
+      "path": "packs/towu-adventures",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "whtow"
+    },
+    {
+      "name": "towu-items",
+      "label": "TOWU Items",
+      "path": "packs/towu-items",
+      "type": "Item",
+      "system": "whtow",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "towu-journal",
+      "label": "TOWU Journal",
+      "path": "packs/towu-journal",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "whtow"
+    },
+    {
+      "name": "towu-macro",
+      "label": "TOWU Macro",
+      "path": "packs/towu-macro",
+      "type": "Macro",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "whtow"
+    },
+    {
+      "name": "towu-rolltables",
+      "label": "TOWU Roll Tables",
+      "path": "packs/towu-rolltables",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "whtow"
+    },
+    {
+      "name": "towu-scenes",
+      "label": "TOWU Scenes",
+      "path": "packs/towu-scenes",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "whtow"
+    }
+  ]
+}
