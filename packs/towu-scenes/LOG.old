@@ -1,15 +1,3 @@
-2025/08/04-18:05:29.421571 7f7f73f040 Recovering log #31
-2025/08/04-18:05:29.421660 7f7f73f040 Level-0 table #33: started
-2025/08/04-18:05:29.429522 7f7f73f040 Level-0 table #33: 1336 bytes OK
-2025/08/04-18:05:29.445049 7f7f73f040 Delete type=3 #30
-2025/08/04-18:05:29.445117 7f7f73f040 Delete type=0 #31
-2025/08/05-11:19:21.120084 7ccffff040 Level-0 table #36: started
-2025/08/05-11:19:21.120767 7ccffff040 Level-0 table #36: 0 bytes OK
-2025/08/05-11:19:21.127716 7ccffff040 Delete type=0 #34
-2025/08/05-11:19:21.157482 7ccffff040 Manual compaction at level-0 from '!scenes!lD4SlrUm2LGPupkg' @ 72057594037927935 : 1 .. '!scenes!lD4SlrUm2LGPupkg' @ 0 : 0; will stop at '!scenes!lD4SlrUm2LGPupkg' @ 1 : 1
-2025/08/05-11:19:21.157501 7ccffff040 Compacting 1@0 + 0@1 files
-2025/08/05-11:19:21.169395 7ccffff040 Generated table #37@0: 1 keys, 1336 bytes
-2025/08/05-11:19:21.169434 7ccffff040 Compacted 1@0 + 0@1 files => 1336 bytes
-2025/08/05-11:19:21.171951 7ccffff040 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/08/05-11:19:21.172045 7ccffff040 Delete type=2 #33
-2025/08/05-11:19:21.215261 7ccffff040 Manual compaction at level-0 from '!scenes!lD4SlrUm2LGPupkg' @ 1 : 1 .. '!scenes!lD4SlrUm2LGPupkg' @ 0 : 0; will stop at (end)
+2025/08/05-13:07:56.930037 7f7df0f040 Recovering log #35
+2025/08/05-13:07:56.945092 7f7df0f040 Delete type=0 #35
+2025/08/05-13:07:56.945157 7f7df0f040 Delete type=3 #32
